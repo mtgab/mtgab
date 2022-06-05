@@ -1,4 +1,4 @@
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtgab&layout=compact&hide=javascript,css,scss,html&theme=github_dark)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtgab&layout=compact&hide=javascript,css,scss,html&theme=github_dark)]
 
 <!--
 Hi there 👋
