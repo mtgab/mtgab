@@ -1,7 +1,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtgab&layout=compact&hide=javascript,css,scss,html&theme=github_dark)
 
 <!--
-Hi there 👋
+Hi tjhere 👋
 **mtgab/mtgab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
